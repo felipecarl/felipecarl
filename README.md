@@ -6,6 +6,8 @@
 ![](https://img.shields.io/badge/HTML-f75b1e)
 ![](https://img.shields.io/badge/CSS-264de4)
 ![](https://img.shields.io/badge/VBA-FFFFFF)
+![](https://img.shields.io/badge/MQL5-edbd37)
+
 
 
 ![](https://img.shields.io/badge/reactJs-61dafb)
@@ -16,11 +18,16 @@
 ![](https://img.shields.io/badge/jest-98425b)
 
 
+
 ![](https://img.shields.io/badge/react--Native-06bcee)
 ![](https://img.shields.io/badge/nodeJs-026e00)
 ![](https://img.shields.io/badge/mongoDB-13aa52)
 
 ![](https://img.shields.io/badge/vscode-0066b8)
+![](https://img.shields.io/badge/mongoDBCompass-13aa52)
+![](https://img.shields.io/badge/postman-ff6c37)
+![](https://img.shields.io/badge/insomnia-4000bf)
+![](https://img.shields.io/badge/github-272629)
 
 ![](https://img.shields.io/badge/windows-0067b8)
 ![](https://img.shields.io/badge/macOs-1d1d1f)
