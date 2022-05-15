@@ -12,6 +12,7 @@
 
 ![](https://img.shields.io/badge/reactJs-61dafb)
 ![](https://img.shields.io/badge/styled--components-palevioletred)
+![](https://img.shields.io/badge/bootstrap-533484)
 ![](https://img.shields.io/badge/redux-533484)
 ![](https://img.shields.io/badge/redux--toolkit-533484)
 ![](https://img.shields.io/badge/cypress-04c38e)
@@ -28,12 +29,15 @@
 ![](https://img.shields.io/badge/postman-ff6c37)
 ![](https://img.shields.io/badge/insomnia-4000bf)
 ![](https://img.shields.io/badge/github-272629)
+![](https://img.shields.io/badge/git-272129)
+![](https://img.shields.io/badge/Trunkbase Development-272129)
+![](https://img.shields.io/badge/GitFlow-272129)
 
 ![](https://img.shields.io/badge/windows-0067b8)
 ![](https://img.shields.io/badge/macOs-1d1d1f)
 
 
-![](https://img.shields.io/badge/redux--toolkit-)
+![](https://img.shields.io/badge/scrum-FFFFFF)
 
 
 
