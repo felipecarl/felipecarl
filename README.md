@@ -30,7 +30,6 @@
 ![](https://img.shields.io/badge/insomnia-4000bf)
 ![](https://img.shields.io/badge/github-272629)
 ![](https://img.shields.io/badge/git-272129)
-![](https://img.shields.io/badge/Trunkbase Development-272129)
 ![](https://img.shields.io/badge/GitFlow-272129)
 
 ![](https://img.shields.io/badge/windows-0067b8)
